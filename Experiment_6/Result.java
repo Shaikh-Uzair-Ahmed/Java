@@ -17,7 +17,7 @@ class Result {
         Internals[] I = new Internals[n];
         External[] E = new External[n];
        
-        // Input for internals
+         
         for(i = 0; i < n; i++) {
             int[] marki = new int[5];
             int[] marke = new int[5];
